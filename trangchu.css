@@ -1,0 +1,53 @@
+.box1{
+    margin: 30px 10px 10px 20px;
+    width: 520px;
+  display: flex;
+  border: 1px solid black;
+  overflow: hidden;
+  box-shadow: 0 2px 4px black;
+  width: 93%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+}
+.box2{
+    
+    margin: 30px 10px 10px 20px;
+    width: 520px;
+  display: flex;
+  border: 1px solid black;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 93%;
+  display: flex;
+}
+.box3{
+    
+  margin: 30px 10px 10px 20px;
+  width: 520px;
+display: flex;
+border: 1px solid black;
+overflow: hidden;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+width: 93%;
+display: flex;
+}
+.box4{
+    
+  margin: 30px 10px 10px 20px;
+  width: 520px;
+display: flex;
+border: 1px solid black;
+overflow: hidden;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+width: 93%;
+display: flex;
+}
+.anh{
+    margin: 5px;
+    float: left;
+    width: 300px;
+}
+.vanban{
+    margin: 5px;
+    float: right;
+}
